@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsetResultDetails" value="name:sc_std_id;datatype:int,name:sc_fac_id;datatype:int,name:sc_course_id;datatype:int,name:sc_grade;datatype:int" />
+	<infoitem key="UD_rsetYear" value="name:course_year;datatype:int" />
+	<infoitem key="UD_rsetSemester" value="name:course_semester;datatype:string" />
+</info>

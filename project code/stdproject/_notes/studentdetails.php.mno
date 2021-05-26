@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsetStudentDetails" value="name:std_id_no;datatype:string,name:std_name;datatype:string,name:std_address;datatype:blob" />
+	<infoitem key="UD_rsetResult" value="name:sc_course_id;datatype:int,name:course_title;datatype:string,name:course_semester;datatype:string,name:sc_grade;datatype:int" />
+</info>

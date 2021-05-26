@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsetFacultyDetails" value="name:fac_id_no;datatype:string,name:fac_name;datatype:string,name:fac_desig;datatype:string,name:fac_join_date;datatype:date" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsetFacID" value="name:fac_id;datatype:int,name:fac_id_no;datatype:string" />
+	<infoitem key="UD_rsetCourseID" value="name:course_id;datatype:int,name:course_id_no;datatype:string,name:course_title;datatype:string,name:course_semester;datatype:string,name:course_year;datatype:int" />
+</info>
